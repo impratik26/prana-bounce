@@ -1,0 +1,6 @@
+{
+  "name": "Prana Bounce",
+  "description": "A deeply relaxing, calm, and minimalist mental wellness interactive ball visualizer and breathing pace tracker.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
